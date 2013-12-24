@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+*.pyo
+.idea
+env
+settings_local.py
